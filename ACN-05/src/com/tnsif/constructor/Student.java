@@ -7,7 +7,6 @@ public class Student {
 	// CONSTRUCTOR
 	
 	Student(String name){
-		this.name = name;
 	}
 	
 	void display() {

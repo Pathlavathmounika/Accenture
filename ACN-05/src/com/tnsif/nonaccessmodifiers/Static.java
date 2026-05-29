@@ -24,5 +24,4 @@ public class Static {
 		display();
 
 	}
-
 }
